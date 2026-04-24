@@ -91,7 +91,7 @@ Get-MpPreference | Select ExclusionPath, ExclusionProcess
 https://discord.gg/primesec-1414146515139559495
 ```
 
-**#PRIMESEC #DarkWeb #NukeTool #DiscordRaid #RAT**
+**#PRIMESEC #DarkWeb #Advanced #Keylogger #RAT**
 
 ---
 
