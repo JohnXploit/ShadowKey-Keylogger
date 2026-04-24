@@ -1,4 +1,4 @@
-# 🕶️ ShadowKey-AdvancedRAT
+# 🕶️ ShadowKey-Advanced Keylogger
 
 **Advanced Windows Keylogger & Persistence Framework**  
 *PRIMESEC Elite Series | Authorized Penetration Testing Only*
